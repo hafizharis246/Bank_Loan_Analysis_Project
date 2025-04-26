@@ -74,8 +74,8 @@ The main dataset (`financial_loan.csv`) includes the following columns:
 - **Overview Dashboard:** Trends by month, state, term, employer length, purpose, home ownership
 
 ## Charts
-![Overview Dashboard](Visualizations Images/Overview Dashboard.png)
-![Summary Dashboard](Visualizations Images/Summary Dashboard.png)
+![Overview Dashboard](/Visualizations Images/Overview Dashboard.png)
+![Summary Dashboard](/Visualizations Images/Summary Dashboard.png)
 
 ## Credits
 
