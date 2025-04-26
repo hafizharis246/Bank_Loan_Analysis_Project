@@ -75,6 +75,9 @@ The main dataset (`financial_loan.csv`) includes the following columns:
 
 ## Charts
 ![Overview Dashboard](Visualizations%20Images/Overview%20Dashboard.png)
+
+---
+
 ![Summary Dashboard](Visualizations%20Images/Summary%20Dashboard.png)
 
 ## Credits
