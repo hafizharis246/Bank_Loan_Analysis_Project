@@ -62,10 +62,6 @@ The main dataset (`financial_loan.csv`) includes the following columns:
 3. **Customization:**  
    Filter by grade, purpose, and other fields in the Excel dashboard for deeper insights.
 
-
-
-
-
 ## Requirements
 
 - Microsoft Excel (for dashboard)
@@ -77,11 +73,9 @@ The main dataset (`financial_loan.csv`) includes the following columns:
 - **Summary Dashboard:** Key metrics, good/bad loan breakdown, KPIs
 - **Overview Dashboard:** Trends by month, state, term, employer length, purpose, home ownership
 
-
 ## Charts
 ![Overview Dashboard](Visualizations Images/Overview Dashboard.png)
 ![Summary Dashboard](Visualizations Images/Summary Dashboard.png)
-
 
 ## Credits
 
